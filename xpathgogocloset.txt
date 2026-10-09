@@ -1,0 +1,8 @@
+xpath gogo closet (identificador de elementos no site)
+
+//tag[@atributo='valor']
+
+
+//h3[@class='product-name text-black font-semibold text-[0.938em] -tracking-[0.4px] uppercase text-center leading-[1.2em] min-h-[30px] max-md:text-[0.8125em]'] //nome dos produtos
+
+"//span[@class='text-[1.125em] font-semibold price-pix text-[#2DBDAF]']" //valores
